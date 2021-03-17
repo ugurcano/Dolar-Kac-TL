@@ -1,1 +1,11 @@
-# Dolar-Kac-TL
+# Dolar Kaç TL
+
+ABD doları, dünyanın en büyük ekonomisinin resmi para birimi olmasının yanı sıra, aynı zamanda dünyanın baskın rezerv para birimidir ve çoğu uluslararası işlemde kullanılmaktadır. Dünyanın dört bir yanındaki birçok para birimi ABD dolarına göre değerlenir veya hatta sabitlenir. Önemi küçümsenemez.
+
+Amerikan para biriminin tarihi, İngilizlerin kolonilerde kullandığı para ve metalarla başlar. Kıta Kongresi, 1775'te Devrim Savaşı'nın patlak vermesinden sonra Kıta para birimini yayınlayana kadar, on üç koloni nihayetinde bireysel para birimlerini ihraç etmeye devam edecekti. Eyaletler ve Kongre arasındaki koordinasyon eksikliği, savaş harcamaları ve İngilizlerin eylemleri, para biriminin kötü bir şekilde değer kaybetmek. Para biriminin kötü şekline atıfta bulunularak bu dönemde "bir Kıta Avrupasına değmez" ifadesi popüler hale geldi.
+
+Amerika Birleşik Devletleri Darphanesi 1792'de kuruldu ve ilk dolar paraları basıldı. Ancak, 1863 Ulusal Banka Yasası ve İç Savaş'ı izleyen diğer politikalara kadar, ABD doları ülkenin tek para birimi haline gelmedi. 1800'lü yıllar boyunca dolar, değerinin temeli olarak altın ve gümüş arasında dalgalandı. Altın, gümüşe göre yükseldiğinde, altınlar dolaşımdan çıkarıldı ve eritildi. Daha hafif olmalarına rağmen yeni altın sikkeler daha sonra piyasaya sürüldü. ABD dolarının altın veya gümüş standardına bağlanması gerektiği konusunda anlaşmazlık devam etti. 1896'da, Demokratik Başkan adaylığı için kara at adayı William Jennings Bryan, altın standardını kınadığı bir konuşma yaptı ve meşhur, "İnsanlığı altın haçı üzerinde çarmıha germeyeceksin" dedi. Buna rağmen,
+
+Altın standardı, terk dönemleri olmasına rağmen, 1971'e kadar büyük ölçüde yürürlükte kalacaktı. Esas olarak bu, Birinci Dünya Savaşı ve Büyük Buhran dönemlerinde yapıldı. 1934 Altın Rezerv Yasası, altının çoğunu yasadışı hale getirdi ve ardından Fort Knox'ta toplandı ve saklandı.
+
+1945'te yürürlüğe giren Bretton Woods sistemi, diğer tüm para birimlerinin altına bağlı kalan ABD dolarına göre değerlenmesini zorunlu kıldı. Bu, yirmi yıldan fazla bir süre yürürlükte kalacaktır. 1971'de ABD doları yüksek enflasyondan muzdaripti ve Bretton Woods sisteminden ayrılma baskısı vardı. Richard Nixon, ABD dolarının altına çevrilebilirliğini tek taraflı olarak kaldırdı. Bu, Nixon şoku olarak bilinir ve Bretton Woods sisteminin tamamen kaldırılmasında önemli bir faktördür. Bugün onun yerini aldığımız serbest dalgalı döviz piyasası.
